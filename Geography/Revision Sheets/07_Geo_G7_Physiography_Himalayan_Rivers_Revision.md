@@ -109,6 +109,23 @@
 - Wider in west, steeper rise in east. Nanda Devi = Kumaon; Namcha Barwa = Assam Himalaya; Nokrek = Garo (Meghalaya).
 - **Roles:** block Siberian cold · hold monsoon · perennial rivers · alluvium · forests, hydro, tourism · defence · hazards. Himalaya > 5 states; W Ghats 6.
 
+
+## 3a. Himalayan passes *(leaf — no G7 PYQ yet; listed because the tracker asks for passes on a map)*
+| Pass | Region | Connects / note |
+|---|---|---|
+| Karakoram Pass | Ladakh | Ladakh–Xinjiang (old silk route) |
+| Khardung La | Ladakh | Leh–Nubra; one of the highest motorable roads |
+| Zoji La | Ladakh/Kashmir | Srinagar–Kargil–Leh (Zoji La tunnel under construction) |
+| Banihal | Pir Panjal, J&K | Jammu–Srinagar (Jawahar tunnel) |
+| Rohtang | HP | Manali–Lahaul (Atal Tunnel, 2020, bypasses it) |
+| Bara-lacha La | HP | Lahaul–Ladakh (Manali–Leh road) |
+| Shipki La | HP | Sutlej enters India from Tibet; trade with Tibet |
+| Lipulekh | Uttarakhand | Kailash–Mansarovar route; India–Nepal–China tri-junction |
+| Mana, Niti | Uttarakhand | Badrinath region to Tibet |
+| Nathu La | Sikkim | Gangtok–Lhasa; border trade post |
+| Jelep La | Sikkim | Kalimpong–Chumbi valley |
+| Bomdi La | Arunachal | Tawang route |
+
 ## 4. Northern Plains
 - Trough in front of rising Himalaya filled with alluvium (hundreds–thousands of m); ~3,200 km long, 150–300 km wide.
 - **Bhabar** (pebbles, 8–16 km, streams sink) → **Terai** (marshy, streams re-emerge) → **Bhangar** (older alluvium, terraces, kankar, less fertile) / **Khadar** (new floodplain, most fertile) → **delta** (Sundarbans).
